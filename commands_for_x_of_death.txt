@@ -1,0 +1,8 @@
+1. !print - print something
+2. !plus - add something by something
+3. !times - times something by something
+4. !divide - divide something by something
+5. !creator - see who made the languge
+6. !minus - subtract anything by anything
+7. !version - see the version of the languge
+8. !repeater - repeat text by text Etc.
